@@ -17,5 +17,4 @@ Todos as listas de filtro foram encontradas no site [FilterLists](https://filter
 - hostsVN: https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 - Goodbye Ads: https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 - Yet another small hosts file: https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts.txt
-- Energized Porn Lite Extension: https://block.energized.pro/extensions/porn-lite/formats/hosts.txt
 - anudeepND blacklist adservers: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
