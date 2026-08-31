@@ -8,5 +8,6 @@
 - yoyo.org: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 - hostsVN: https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 - Goodbye Ads: https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
-- Yet another small hosts file: https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts.txt // ele também desliga a telemetria do google, meta e outros.
+- Yet another small hosts file: https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts.txt
+> Observação: ele bloqueia as requisições de telemetria e outros serviços. Usar essa lista de filtro pode quebrar acesso de recursos do google e etc.
 - anudeepND blacklist adservers: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
